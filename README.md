@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Blog preview card Solution](https://www.frontendmentor.io/solutions/blog-preview-card-eJvZzk8Pho)
-- Live Site URL: [Live Site Vercel](https://blog-preview-card-five-steel.vercel.app/)
+- Live Site URL: [Live Site Vercel](https://social-links-profile-iota-ashy.vercel.app/)
 
 ## My process
 
